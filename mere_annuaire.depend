@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1484506503 source:c:\users\mac computers\desktop\mere_annuaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+	"AFFICHER.h"
+	"enregistrer.h"
+	"denicher.h"
+	"modifier.h"
+	"supprime.h"
+
+1484140044 c:\users\mac computers\desktop\mere_annuaire\entete.h
+
+1484505548 c:\users\mac computers\desktop\mere_annuaire\enregistrer.h
+	"entete.h"
+
+1484509039 c:\users\mac computers\desktop\mere_annuaire\afficher.h
+	<string.h>
+	"entete.h"
+
+1484532934 c:\users\mac computers\desktop\mere_annuaire\denicher.h
+	<string.h>
+	"trnom.h"
+	"rechersup.h"
+	"rechermodif.h"
+
+1484516303 c:\users\mac computers\desktop\mere_annuaire\modifier.h
+	<string.h>
+
+1484429481 c:\users\mac computers\desktop\mere_annuaire\effacer.h
+	<string.h>
+
+1484516569 c:\users\mac computers\desktop\mere_annuaire\supprime.h
+	"entete.h"
+	<string.h>
+	"denicher.h"
+
+1484512773 c:\users\mac computers\desktop\mere_annuaire\exxiste.h
+	<string.h>
+
+1484531193 c:\users\mac computers\desktop\mere_annuaire\trnom.h
+	<string.h>
+
+1484533526 c:\users\mac computers\desktop\mere_annuaire\rechersup.h
+
+1484533266 c:\users\mac computers\desktop\mere_annuaire\rechermodif.h
+
+1486765992 source:e:\mere_annuaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+	"AFFICHER.h"
+	"enregistrer.h"
+	"denicher.h"
+	"modifier.h"
+	"supprime.h"
+
+1484140044 e:\mere_annuaire\entete.h
+
+1484509039 e:\mere_annuaire\afficher.h
+	<string.h>
+	"entete.h"
+
+1485195048 e:\mere_annuaire\enregistrer.h
+	"entete.h"
+
+1484532934 e:\mere_annuaire\denicher.h
+	<string.h>
+	"trnom.h"
+	"rechersup.h"
+	"rechermodif.h"
+
+1484531193 e:\mere_annuaire\trnom.h
+	<string.h>
+
+1484533526 e:\mere_annuaire\rechersup.h
+
+1484533266 e:\mere_annuaire\rechermodif.h
+
+1484516303 e:\mere_annuaire\modifier.h
+	<string.h>
+
+1484516569 e:\mere_annuaire\supprime.h
+	"entete.h"
+	<string.h>
+	"denicher.h"
+
+1486766123 source:d:\ecole\mes codes\c\annuaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+	"AFFICHER.h"
+	"enregistrer.h"
+	"denicher.h"
+	"modifier.h"
+	"supprime.h"
+
+1484140044 d:\ecole\mes codes\c\annuaire\entete.h
+
+1484509039 d:\ecole\mes codes\c\annuaire\afficher.h
+	<string.h>
+	"entete.h"
+
+1485195048 d:\ecole\mes codes\c\annuaire\enregistrer.h
+	"entete.h"
+
+1484532934 d:\ecole\mes codes\c\annuaire\denicher.h
+	<string.h>
+	"trnom.h"
+	"rechersup.h"
+	"rechermodif.h"
+
+1484531193 d:\ecole\mes codes\c\annuaire\trnom.h
+	<string.h>
+
+1484533526 d:\ecole\mes codes\c\annuaire\rechersup.h
+
+1484533266 d:\ecole\mes codes\c\annuaire\rechermodif.h
+
+1484516303 d:\ecole\mes codes\c\annuaire\modifier.h
+	<string.h>
+
+1484516569 d:\ecole\mes codes\c\annuaire\supprime.h
+	"entete.h"
+	<string.h>
+	"denicher.h"
+

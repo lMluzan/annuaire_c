@@ -1,0 +1,5 @@
+#ifndef EFFACER_H_INCLUDED
+#define EFFACER_H_INCLUDED
+
+
+#endif // EFFACER_H_INCLUDED
